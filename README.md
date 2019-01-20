@@ -1,4 +1,4 @@
-# 🧟‍♀️framer-zombie 🧟‍♂️
+#  🧟‍♀️framer-zombie 🧟‍♂️
 
 Framer Zombie is a collection of build tools and Visual Studio Code prefs/plugins to keep Framer Classic alive and munchin' on 
 brainz
